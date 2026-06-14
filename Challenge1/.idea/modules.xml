@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenge1.iml" filepath="$PROJECT_DIR$/Challenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge2/Challenge2.iml" filepath="$PROJECT_DIR$/../Challenge2/Challenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kotlin-oops/kotlin-oops.iml" filepath="$PROJECT_DIR$/../kotlin-oops/kotlin-oops.iml" />
+    </modules>
+  </component>
+</project>
