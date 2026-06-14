@@ -2,6 +2,40 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+**/*.iml
+
+# Build directories (all modules)
+**/build/
+**/out/
+**/target/
+
+
+# =========================
+# Gradle
+# =========================
+.gradle/
+**/build/
+
+# =========================
+# Maven
+# =========================
+**/target/
+
+# Maven Wrapper JAR (keep these files)
+!.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# Logs
+# =========================
+*.log
+hs_err_pid*
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
 
 ### Kotlin ###
 .kotlin
@@ -30,3 +64,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+Thumbs.db
