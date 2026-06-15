@@ -1,4 +1,4 @@
-package java;
+package javaclient;
 
 public class Employee {
 
